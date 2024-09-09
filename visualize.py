@@ -56,5 +56,5 @@ def show_visualization():
 
     data=df.groupby(["EdLevel"])["Country"].sum().sort_index()
     
-    st.map(data)
+
 
