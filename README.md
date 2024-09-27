@@ -30,5 +30,6 @@ A simple Streamlit webapp to predict software engineer salary.
 2] ![image](https://github.com/user-attachments/assets/99c2f4f9-6dc2-473c-ac17-0717513a0733)
 
 # Visualize Page
+1] ![image](https://github.com/user-attachments/assets/052e3f95-9d92-47a9-8bb1-5b880d806a6a)
 
 
