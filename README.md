@@ -24,6 +24,11 @@ A simple Streamlit webapp to predict software engineer salary.
    $ streamlit run app.py
    ```
 
-# Predit page
-![image](https://github.com/user-attachments/assets/ee06d734-2b6c-46b7-9c69-a4d131630117)
+# Predit Page
+1] ![image](https://github.com/user-attachments/assets/ee06d734-2b6c-46b7-9c69-a4d131630117)
+
+2] ![image](https://github.com/user-attachments/assets/99c2f4f9-6dc2-473c-ac17-0717513a0733)
+
+# Visualize Page
+
 
