@@ -21,6 +21,6 @@ A simple Streamlit webapp to predict software engineer salary.
 2. Run the app
 
    ```
-   $ streamlit run streamlit_app.py
+   $ streamlit run app.py
    ```
 
